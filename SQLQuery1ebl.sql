@@ -1,0 +1,11 @@
+use [EBLBD_Enhanced]
+
+select * from [dbo].[Accounts]
+select * from [dbo].[ATMIncidents]
+select * from [dbo].[ATMTtransactions]
+select * from [dbo].[BillPayments]
+select * from [dbo].[Branches]
+select * from [dbo].[BranchPerformance]
+select * from [dbo].[BranchServices]
+select * from [dbo].[CardTransactions_Flawed]
+select * from [dbo].[ChequeTransactions]
